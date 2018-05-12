@@ -1,9 +1,13 @@
 _repo: Totuus_46929
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Warén, Reijo
     gutenberg_agent_id: '44040'
     url: http://www.gutenberg.org/2009/agents/44040
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -16,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46929#Totuus
 gutenberg_issued: '2014-09-22'
 gutenberg_type: Text
 identifiers:
